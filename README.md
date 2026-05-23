@@ -19,7 +19,7 @@
 
 CS graduate now studying **Game Engineering**. I build real-time experiences and care about performance, architecture, and making tech that feels good to use.
 
-- 🎮 Currently building **[FitVR](https://github.com/YoussefJarray/fitvr)** — a fitness game in Unity 6
+- 🎮 Currently building **[FitVR](https://github.com/YoussefJarray/FitVR)** [Private Repo] — a fitness game in Unity 6
 - 🎓 Pursuing a degree in **VR & Game Engineering**
 - 🧠 Exploring real-time systems, engine architecture, and graphics programming
 - 🌍 Based in Rotterdam, NL
