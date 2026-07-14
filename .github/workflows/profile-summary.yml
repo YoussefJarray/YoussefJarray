@@ -16,3 +16,5 @@ jobs:
           user: YoussefJarray
           theme: tokyonight
           template: profile-details, repos-per-language, stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
