@@ -52,12 +52,12 @@ CS graduate now studying **Game Engineering**. I build real-time experiences and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefJarray&theme=tokyonight" />
+  <img width="100%" src="https://raw.githubusercontent.com/YoussefJarray/YoussefJarray/output/profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefJarray&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefJarray&theme=tokyonight" height="160" />
+  <img src="https://raw.githubusercontent.com/YoussefJarray/YoussefJarray/output/repos-per-language.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/YoussefJarray/YoussefJarray/output/stats.svg" height="160" />
 </p>
 
 <p align="center">
@@ -67,10 +67,6 @@ CS graduate now studying **Game Engineering**. I build real-time experiences and
 ---
 
 ## 🎮 Featured Project
-
-<a href="https://github.com/YoussefJarray/fitvr">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefJarray&theme=tokyonight" style="display:none" />
-</a>
 
 > 🕹️ **[FitVR](https://github.com/YoussefJarray/fitvr)** — A VR fitness game built in Unity 6. Modular architecture with Core, MiniGames, Lobby and Services modules.
 
